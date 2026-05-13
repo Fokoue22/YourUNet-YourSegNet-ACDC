@@ -69,13 +69,13 @@ Add your architecture diagrams in this section:
 2. Save your architecture diagrams as PNG or SVG files (e.g., `yourUNet_architecture.png`, `yourSegNet_architecture.png`)
 3. Reference them below:
 
-```markdown
+
 #### YourUNet
 ![YourUNet Architecture](diagrams/yourUNet_architecture.png)
 
 #### YourSegNet  
 ![YourSegNet Architecture](diagrams/yourSegNet_architecture.png)
-```
+
 
 ## Usage
 
