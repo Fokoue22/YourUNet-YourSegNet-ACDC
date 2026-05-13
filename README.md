@@ -62,13 +62,6 @@ data/ift780_acdc.hdf5
 ## Architecture
 
 ### Model Architectures
-**[INSERT ARCHITECTURE DIAGRAMS HERE]**
-
-Add your architecture diagrams in this section:
-1. Create a `diagrams/` folder in the project root
-2. Save your architecture diagrams as PNG or SVG files (e.g., `yourUNet_architecture.png`, `yourSegNet_architecture.png`)
-3. Reference them below:
-
 
 #### YourUNet
 ![YourUNet Architecture](diagrams/yourUNet_architecture.png)
