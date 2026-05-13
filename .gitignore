@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+venv/
+
+# Dataset / database files
+data/
+*.h5
+*.hdf5
+
+
