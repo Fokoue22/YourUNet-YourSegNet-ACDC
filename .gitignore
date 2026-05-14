@@ -12,4 +12,9 @@ __pycache__/
 *.py[cod]
 src/**/__pycache__/
 
+# Large model files (PyTorch checkpoints > 100MB)
+*.pt
+
+# Large PDF files
+*.pdf
 
